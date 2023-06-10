@@ -1,0 +1,7 @@
+config/
+logs/
+plugins/
+data/locationwise_profit_transactions_2023-06-06.csv
+data/clean_store_transactions.csv
+data/store_profit_transactions_2023-06-06.csv
+*__pycache__
